@@ -1,0 +1,1474 @@
+ADAMS
+OBAMA , BARACK
+(DEM)
+39.63%
+    Votes: 17,633
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+59.22%
+    Votes: 26,349
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.80%
+    Votes: 355
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.35%
+    Votes: 154
+Runningmate: ROOT ,WAYNE A
+Back to Top
+ALLEGHENY
+OBAMA , BARACK
+(DEM)
+57.28%
+    Votes: 373,153
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+41.81%
+    Votes: 272,347
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.60%
+    Votes: 3,927
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.31%
+    Votes: 2,009
+Runningmate: ROOT ,WAYNE A
+Back to Top
+ARMSTRONG
+OBAMA , BARACK
+(DEM)
+37.03%
+    Votes: 11,138
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+61.64%
+    Votes: 18,542
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.87%
+    Votes: 263
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.46%
+    Votes: 138
+Runningmate: ROOT ,WAYNE A
+Back to Top
+BEAVER
+OBAMA , BARACK
+(DEM)
+47.93%
+    Votes: 40,499
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+50.77%
+    Votes: 42,895
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.98%
+    Votes: 826
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.32%
+    Votes: 268
+Runningmate: ROOT ,WAYNE A
+Back to Top
+BEDFORD
+OBAMA , BARACK
+(DEM)
+27.00%
+    Votes: 6,059
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+71.84%
+    Votes: 16,124
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.73%
+    Votes: 164
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.43%
+    Votes: 96
+Runningmate: ROOT ,WAYNE A
+Back to Top
+BERKS
+OBAMA , BARACK
+(DEM)
+53.92%
+    Votes: 97,047
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+44.73%
+    Votes: 80,513
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.90%
+    Votes: 1,614
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.46%
+    Votes: 826
+Runningmate: ROOT ,WAYNE A
+Back to Top
+BLAIR
+OBAMA , BARACK
+(DEM)
+37.31%
+    Votes: 19,813
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+61.59%
+    Votes: 32,708
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.63%
+    Votes: 335
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.46%
+    Votes: 246
+Runningmate: ROOT ,WAYNE A
+Back to Top
+BRADFORD
+OBAMA , BARACK
+(DEM)
+39.97%
+    Votes: 10,306
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+58.39%
+    Votes: 15,057
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.17%
+    Votes: 302
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.47%
+    Votes: 122
+Runningmate: ROOT ,WAYNE A
+Back to Top
+BUCKS
+OBAMA , BARACK
+(DEM)
+53.78%
+    Votes: 179,031
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+45.13%
+    Votes: 150,248
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.72%
+    Votes: 2,405
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.37%
+    Votes: 1,240
+Runningmate: ROOT ,WAYNE A
+Back to Top
+BUTLER
+OBAMA , BARACK
+(DEM)
+35.68%
+    Votes: 32,260
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+63.12%
+    Votes: 57,074
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.80%
+    Votes: 722
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.41%
+    Votes: 369
+Runningmate: ROOT ,WAYNE A
+Back to Top
+CAMBRIA
+OBAMA , BARACK
+(DEM)
+49.42%
+    Votes: 32,451
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+48.72%
+    Votes: 31,995
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.38%
+    Votes: 905
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.49%
+    Votes: 319
+Runningmate: ROOT ,WAYNE A
+Back to Top
+CAMERON
+OBAMA , BARACK
+(DEM)
+39.15%
+    Votes: 879
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+58.93%
+    Votes: 1,323
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.51%
+    Votes: 34
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.40%
+    Votes: 9
+Runningmate: ROOT ,WAYNE A
+Back to Top
+CARBON
+OBAMA , BARACK
+(DEM)
+50.01%
+    Votes: 13,464
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+48.13%
+    Votes: 12,957
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.41%
+    Votes: 379
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.46%
+    Votes: 123
+Runningmate: ROOT ,WAYNE A
+Back to Top
+CENTRE
+OBAMA , BARACK
+(DEM)
+55.37%
+    Votes: 41,950
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+43.55%
+    Votes: 32,992
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.64%
+    Votes: 488
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.44%
+    Votes: 333
+Runningmate: ROOT ,WAYNE A
+Back to Top
+CHESTER
+OBAMA , BARACK
+(DEM)
+54.19%
+    Votes: 137,833
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+44.98%
+    Votes: 114,421
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.48%
+    Votes: 1,230
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.34%
+    Votes: 870
+Runningmate: ROOT ,WAYNE A
+Back to Top
+CLARION
+OBAMA , BARACK
+(DEM)
+38.03%
+    Votes: 6,756
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+60.44%
+    Votes: 10,737
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.95%
+    Votes: 169
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.59%
+    Votes: 104
+Runningmate: ROOT ,WAYNE A
+Back to Top
+CLEARFIELD
+OBAMA , BARACK
+(DEM)
+43.05%
+    Votes: 14,555
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+55.19%
+    Votes: 18,662
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.31%
+    Votes: 443
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.45%
+    Votes: 153
+Runningmate: ROOT ,WAYNE A
+Back to Top
+CLINTON
+OBAMA , BARACK
+(DEM)
+47.98%
+    Votes: 7,097
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+50.73%
+    Votes: 7,504
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.92%
+    Votes: 136
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.37%
+    Votes: 54
+Runningmate: ROOT ,WAYNE A
+Back to Top
+COLUMBIA
+OBAMA , BARACK
+(DEM)
+47.14%
+    Votes: 13,230
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+51.59%
+    Votes: 14,477
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.94%
+    Votes: 264
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.33%
+    Votes: 92
+Runningmate: ROOT ,WAYNE A
+Back to Top
+CRAWFORD
+OBAMA , BARACK
+(DEM)
+44.00%
+    Votes: 16,780
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+54.41%
+    Votes: 20,750
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.15%
+    Votes: 437
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.44%
+    Votes: 167
+Runningmate: ROOT ,WAYNE A
+Back to Top
+CUMBERLAND
+OBAMA , BARACK
+(DEM)
+42.63%
+    Votes: 48,306
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+56.25%
+    Votes: 63,739
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.70%
+    Votes: 789
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.41%
+    Votes: 470
+Runningmate: ROOT ,WAYNE A
+Back to Top
+DAUPHIN
+OBAMA , BARACK
+(DEM)
+54.02%
+    Votes: 69,975
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+44.96%
+    Votes: 58,238
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.63%
+    Votes: 816
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.39%
+    Votes: 500
+Runningmate: ROOT ,WAYNE A
+Back to Top
+DELAWARE
+OBAMA , BARACK
+(DEM)
+60.22%
+    Votes: 178,870
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+38.81%
+    Votes: 115,273
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.66%
+    Votes: 1,955
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.31%
+    Votes: 906
+Runningmate: ROOT ,WAYNE A
+Back to Top
+ELK
+OBAMA , BARACK
+(DEM)
+51.08%
+    Votes: 7,290
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+46.78%
+    Votes: 6,676
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.54%
+    Votes: 220
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.60%
+    Votes: 85
+Runningmate: ROOT ,WAYNE A
+Back to Top
+ERIE
+OBAMA , BARACK
+(DEM)
+59.34%
+    Votes: 75,775
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+39.43%
+    Votes: 50,351
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.91%
+    Votes: 1,167
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.31%
+    Votes: 398
+Runningmate: ROOT ,WAYNE A
+Back to Top
+FAYETTE
+OBAMA , BARACK
+(DEM)
+49.21%
+    Votes: 25,866
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+49.62%
+    Votes: 26,081
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.87%
+    Votes: 456
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.30%
+    Votes: 157
+Runningmate: ROOT ,WAYNE A
+Back to Top
+FOREST
+OBAMA , BARACK
+(DEM)
+42.47%
+    Votes: 1,038
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+55.89%
+    Votes: 1,366
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.23%
+    Votes: 30
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.41%
+    Votes: 10
+Runningmate: ROOT ,WAYNE A
+Back to Top
+FRANKLIN
+OBAMA , BARACK
+(DEM)
+33.26%
+    Votes: 21,169
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+65.85%
+    Votes: 41,906
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.58%
+    Votes: 370
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.31%
+    Votes: 196
+Runningmate: ROOT ,WAYNE A
+Back to Top
+FULTON
+OBAMA , BARACK
+(DEM)
+24.99%
+    Votes: 1,576
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+73.61%
+    Votes: 4,642
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.90%
+    Votes: 57
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.49%
+    Votes: 31
+Runningmate: ROOT ,WAYNE A
+Back to Top
+GREENE
+OBAMA , BARACK
+(DEM)
+49.00%
+    Votes: 7,829
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+49.38%
+    Votes: 7,889
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.37%
+    Votes: 219
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.24%
+    Votes: 39
+Runningmate: ROOT ,WAYNE A
+Back to Top
+HUNTINGDON
+OBAMA , BARACK
+(DEM)
+35.54%
+    Votes: 6,621
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+63.04%
+    Votes: 11,745
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.05%
+    Votes: 196
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.38%
+    Votes: 70
+Runningmate: ROOT ,WAYNE A
+Back to Top
+INDIANA
+OBAMA , BARACK
+(DEM)
+45.75%
+    Votes: 17,065
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+52.88%
+    Votes: 19,727
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.96%
+    Votes: 357
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.41%
+    Votes: 153
+Runningmate: ROOT ,WAYNE A
+Back to Top
+JEFFERSON
+OBAMA , BARACK
+(DEM)
+34.29%
+    Votes: 6,447
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+64.13%
+    Votes: 12,057
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.02%
+    Votes: 192
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.56%
+    Votes: 106
+Runningmate: ROOT ,WAYNE A
+Back to Top
+JUNIATA
+OBAMA , BARACK
+(DEM)
+31.59%
+    Votes: 3,068
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+66.77%
+    Votes: 6,484
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.10%
+    Votes: 107
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.54%
+    Votes: 52
+Runningmate: ROOT ,WAYNE A
+Back to Top
+LACKAWANNA
+OBAMA , BARACK
+(DEM)
+62.59%
+    Votes: 67,520
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+36.60%
+    Votes: 39,488
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.65%
+    Votes: 702
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.15%
+    Votes: 166
+Runningmate: ROOT ,WAYNE A
+Back to Top
+LANCASTER
+OBAMA , BARACK
+(DEM)
+43.65%
+    Votes: 99,586
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+55.48%
+    Votes: 126,568
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.53%
+    Votes: 1,218
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.34%
+    Votes: 765
+Runningmate: ROOT ,WAYNE A
+Back to Top
+LAWRENCE
+OBAMA , BARACK
+(DEM)
+46.82%
+    Votes: 19,711
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+51.90%
+    Votes: 21,851
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.94%
+    Votes: 395
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.35%
+    Votes: 146
+Runningmate: ROOT ,WAYNE A
+Back to Top
+LEBANON
+OBAMA , BARACK
+(DEM)
+39.98%
+    Votes: 23,310
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+58.86%
+    Votes: 34,314
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.77%
+    Votes: 449
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.38%
+    Votes: 224
+Runningmate: ROOT ,WAYNE A
+Back to Top
+LEHIGH
+OBAMA , BARACK
+(DEM)
+57.12%
+    Votes: 87,089
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+41.57%
+    Votes: 63,382
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.97%
+    Votes: 1,477
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.34%
+    Votes: 525
+Runningmate: ROOT ,WAYNE A
+Back to Top
+LUZERNE
+OBAMA , BARACK
+(DEM)
+53.63%
+    Votes: 72,492
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+45.22%
+    Votes: 61,127
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.84%
+    Votes: 1,139
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.31%
+    Votes: 417
+Runningmate: ROOT ,WAYNE A
+Back to Top
+LYCOMING
+OBAMA , BARACK
+(DEM)
+37.33%
+    Votes: 18,381
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+61.50%
+    Votes: 30,280
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.78%
+    Votes: 383
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.39%
+    Votes: 193
+Runningmate: ROOT ,WAYNE A
+Back to Top
+McKEAN
+OBAMA , BARACK
+(DEM)
+40.54%
+    Votes: 6,465
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+57.84%
+    Votes: 9,224
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.25%
+    Votes: 200
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.36%
+    Votes: 58
+Runningmate: ROOT ,WAYNE A
+Back to Top
+MERCER
+OBAMA , BARACK
+(DEM)
+49.07%
+    Votes: 26,411
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+49.36%
+    Votes: 26,565
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.14%
+    Votes: 611
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.43%
+    Votes: 234
+Runningmate: ROOT ,WAYNE A
+Back to Top
+MIFFLIN
+OBAMA , BARACK
+(DEM)
+32.57%
+    Votes: 5,375
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+66.23%
+    Votes: 10,929
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.95%
+    Votes: 157
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.25%
+    Votes: 41
+Runningmate: ROOT ,WAYNE A
+Back to Top
+MONROE
+OBAMA , BARACK
+(DEM)
+57.64%
+    Votes: 39,453
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+41.34%
+    Votes: 28,293
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.73%
+    Votes: 498
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.29%
+    Votes: 199
+Runningmate: ROOT ,WAYNE A
+Back to Top
+MONTGOMERY
+OBAMA , BARACK
+(DEM)
+59.99%
+    Votes: 253,393
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+39.19%
+    Votes: 165,552
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.50%
+    Votes: 2,091
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.33%
+    Votes: 1,383
+Runningmate: ROOT ,WAYNE A
+Back to Top
+MONTOUR
+OBAMA , BARACK
+(DEM)
+41.93%
+    Votes: 3,364
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+57.01%
+    Votes: 4,574
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.84%
+    Votes: 67
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.22%
+    Votes: 18
+Runningmate: ROOT ,WAYNE A
+Back to Top
+NORTHAMPTON
+OBAMA , BARACK
+(DEM)
+55.50%
+    Votes: 75,255
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+43.18%
+    Votes: 58,551
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.92%
+    Votes: 1,253
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.39%
+    Votes: 528
+Runningmate: ROOT ,WAYNE A
+Back to Top
+NORTHUMBERLAND
+OBAMA , BARACK
+(DEM)
+42.22%
+    Votes: 14,329
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+56.04%
+    Votes: 19,018
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.22%
+    Votes: 415
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.52%
+    Votes: 177
+Runningmate: ROOT ,WAYNE A
+Back to Top
+PERRY
+OBAMA , BARACK
+(DEM)
+32.39%
+    Votes: 6,396
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+66.13%
+    Votes: 13,058
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.00%
+    Votes: 198
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.47%
+    Votes: 93
+Runningmate: ROOT ,WAYNE A
+Back to Top
+PHILADELPHIA
+OBAMA , BARACK
+(DEM)
+83.08%
+    Votes: 595,980
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+16.34%
+    Votes: 117,221
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.43%
+    Votes: 3,071
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.15%
+    Votes: 1,057
+Runningmate: ROOT ,WAYNE A
+Back to Top
+PIKE
+OBAMA , BARACK
+(DEM)
+47.33%
+    Votes: 11,493
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+51.55%
+    Votes: 12,518
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.77%
+    Votes: 186
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.36%
+    Votes: 87
+Runningmate: ROOT ,WAYNE A
+Back to Top
+POTTER
+OBAMA , BARACK
+(DEM)
+30.64%
+    Votes: 2,300
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+68.06%
+    Votes: 5,109
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.84%
+    Votes: 63
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.47%
+    Votes: 35
+Runningmate: ROOT ,WAYNE A
+Back to Top
+SCHUYLKILL
+OBAMA , BARACK
+(DEM)
+44.88%
+    Votes: 28,300
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+53.55%
+    Votes: 33,767
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.11%
+    Votes: 702
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.46%
+    Votes: 288
+Runningmate: ROOT ,WAYNE A
+Back to Top
+SNYDER
+OBAMA , BARACK
+(DEM)
+34.77%
+    Votes: 5,382
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+63.96%
+    Votes: 9,900
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.90%
+    Votes: 139
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.37%
+    Votes: 58
+Runningmate: ROOT ,WAYNE A
+Back to Top
+SOMERSET
+OBAMA , BARACK
+(DEM)
+36.62%
+    Votes: 12,878
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+61.66%
+    Votes: 21,686
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.14%
+    Votes: 401
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.58%
+    Votes: 203
+Runningmate: ROOT ,WAYNE A
+Back to Top
+SULLIVAN
+OBAMA , BARACK
+(DEM)
+39.52%
+    Votes: 1,233
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+59.01%
+    Votes: 1,841
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.03%
+    Votes: 32
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.45%
+    Votes: 14
+Runningmate: ROOT ,WAYNE A
+Back to Top
+SUSQUEHANNA
+OBAMA , BARACK
+(DEM)
+43.46%
+    Votes: 8,381
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+55.13%
+    Votes: 10,633
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.99%
+    Votes: 191
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.42%
+    Votes: 81
+Runningmate: ROOT ,WAYNE A
+Back to Top
+TIOGA
+OBAMA , BARACK
+(DEM)
+35.53%
+    Votes: 6,390
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+62.98%
+    Votes: 11,326
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.98%
+    Votes: 177
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.51%
+    Votes: 91
+Runningmate: ROOT ,WAYNE A
+Back to Top
+UNION
+OBAMA , BARACK
+(DEM)
+42.14%
+    Votes: 7,333
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+56.66%
+    Votes: 9,859
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.78%
+    Votes: 136
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.41%
+    Votes: 72
+Runningmate: ROOT ,WAYNE A
+Back to Top
+VENANGO
+OBAMA , BARACK
+(DEM)
+39.64%
+    Votes: 9,238
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+58.86%
+    Votes: 13,718
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.07%
+    Votes: 250
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.43%
+    Votes: 101
+Runningmate: ROOT ,WAYNE A
+Back to Top
+WARREN
+OBAMA , BARACK
+(DEM)
+46.10%
+    Votes: 8,537
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+52.30%
+    Votes: 9,685
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+1.20%
+    Votes: 222
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.39%
+    Votes: 73
+Runningmate: ROOT ,WAYNE A
+Back to Top
+WASHINGTON
+OBAMA , BARACK
+(DEM)
+47.04%
+    Votes: 46,122
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+51.76%
+    Votes: 50,752
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.86%
+    Votes: 841
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.34%
+    Votes: 332
+Runningmate: ROOT ,WAYNE A
+Back to Top
+WAYNE
+OBAMA , BARACK
+(DEM)
+43.32%
+    Votes: 9,892
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+55.63%
+    Votes: 12,702
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.84%
+    Votes: 191
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.22%
+    Votes: 50
+Runningmate: ROOT ,WAYNE A
+Back to Top
+WESTMORELAND
+OBAMA , BARACK
+(DEM)
+41.11%
+    Votes: 72,721
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+57.83%
+    Votes: 102,294
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.74%
+    Votes: 1,301
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.31%
+    Votes: 557
+Runningmate: ROOT ,WAYNE A
+Back to Top
+WYOMING
+OBAMA , BARACK
+(DEM)
+45.55%
+    Votes: 5,985
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+53.15%
+    Votes: 6,983
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.91%
+    Votes: 120
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.38%
+    Votes: 50
+Runningmate: ROOT ,WAYNE A
+Back to Top
+YORK
+OBAMA , BARACK
+(DEM)
+42.65%
+    Votes: 82,839
+Runningmate: BIDEN ,JOE
+MCCAIN , JOHN
+(REP)
+56.26%
+    Votes: 109,268
+Runningmate: PALIN ,SARAH
+NADER , RALPH
+(IND)
+0.71%
+    Votes: 1,372
+Runningmate: GONZALEZ ,MATT
+BARR , BOB
+(LIB)
+0.38%
+    Votes: 731
+Runningmate: ROOT ,WAYNE A
+Back to Top
