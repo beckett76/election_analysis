@@ -11,6 +11,7 @@ The 2020 US presidential election continues to be mired in controversy amid accu
 This report presents an examination of the voter data in six states from 2000-2020 with the goal of making an independent determination that these allegations are plausible. 
 The conclusion of the analysis is that massive, systemic voter fraud is not ruled out due to strong, structured trends in differential voting statistics repeated 
 across all states examined that do not appear (collectively) to have a natural demographic explanation. 
+These trends appear in data from some states as early as 2008, but are present in all six states from 2016 forward.
 
 The clearest example is in the state of GA. The figure below shows differences in Republican presidential percentage point (pp) scores for each GA county between the 2004 and 2020 elections. 
 (The label of blue or red is determined based on the county’s preference in 2008). 
